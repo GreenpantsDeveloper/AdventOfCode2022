@@ -2,12 +2,12 @@
 """
 Scoring chart:
 
-Rock:     +1
-Paper:    +2
-Scissors: +3
+Rock:     +day_1
+Paper:    +day_2
+Scissors: +day_3
 
 Winning:  +6
-Tie:      +3
+Tie:      +day_3
 Losing:   +0
 
 """

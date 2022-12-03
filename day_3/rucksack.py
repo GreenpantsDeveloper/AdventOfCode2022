@@ -24,7 +24,7 @@ def prio(char):
     if 'A' <= char <= 'Z':
         return 27 + ord(char) - ord('A')
     else:
-        raise ValueError("Unsupported rucksack item:", char)
+        raise ValueError(f"Unsupported rucksack item: {char}")
 
 
 if __name__ == '__main__':

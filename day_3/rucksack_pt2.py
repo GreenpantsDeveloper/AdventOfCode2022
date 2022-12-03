@@ -5,7 +5,7 @@ GROUP_SIZE = 3
 
 def parse_input(filename='input.txt'):
     """
-    Parse the rucksacks input file for part 2.
+    Parse the rucksacks input file for part day_2.
 
     :param filename: input filename.
     :return: rucksacks split by groups.
